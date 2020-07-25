@@ -69,6 +69,6 @@ This is just for education purpose
 ```
 - in plotted graph
 
-![alt text](https://github.com/xymerz1/forecast_uj_prophet/blob/master/Figure_2.png)
+![alt text](https://github.com/fadilparves/ML-MODELS/blob/master/prophet-usdjpy-forecast/Figure_2.png)
 
 If you want to use it for trading, it is at your own risk!
